@@ -1,6 +1,6 @@
 ### Hello weary traveller, I'm Vijay and welcome to my humble abode.
 ---
-![issei]([https://https://github.com/Lord-Cinders/gifs/blob/master/profile.gif](https://github.com/Lord-Cinders/gifs/blob/master/profile.gif))
+![issei]([https://https://github.com/Lord-Cinders/gifs/blob/master/profile.gif])
 <!--
 ## Github stats
 ![vijay's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Cinders&show_icons=true&theme=dark)
