@@ -1,6 +1,6 @@
 ### Hello weary traveller, I'm Vijay and welcome to my humble abode.
 ---
-![issei](https://github.com/Cinder-Binder/gifs/blob/master/August-Alsina-Reacts-To-Jada-Pinkett-Smith-Discussing-Their-Entanglement.gif)
+![issei](https://https://github.com/Lord-Cinders/gifs/blob/master/profile.gif)
 <!--
 ## Github stats
 ![vijay's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Cinders&show_icons=true&theme=dark)
